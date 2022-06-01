@@ -29,6 +29,4 @@ public class LotteryGame {
             System.out.print(ticket[i] + " ");
         }
     }
-
-
 }
